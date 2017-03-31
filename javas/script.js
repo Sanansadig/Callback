@@ -25,6 +25,4 @@ function bigger (width, height, new_second, backborder) {
 }
 function backborder(borderless, width, height) {
         obyekt.style.border = borderless;
-        sekil.style.width = width +"px";
-        sekil.style.height = height + "px";
 }
